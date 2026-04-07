@@ -1,7 +1,11 @@
 aid: chemtura
-url: https://raw.githubusercontent.com/api-evangelist/chemtura/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/chemtura/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.chemtura.com
+description: >-
+  LANXESS' core business is the development, manufacturing and marketing of chemical
+  intermediates, additives, specialty chemicals and modern plastics.
