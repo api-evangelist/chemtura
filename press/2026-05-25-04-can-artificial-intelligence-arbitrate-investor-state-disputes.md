@@ -1,7 +1,9 @@
 ---
 title: can artificial intelligence arbitrate Investor-State disputes? ...
 url: https://www.nzlii.org/nz/journals/UOtaLawTD/2024/3.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chemtura" press release artificial intelligence'
 position: 4
 source: serpapi-google

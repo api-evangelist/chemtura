@@ -1,7 +1,9 @@
 ---
 title: 'Artificial Intelligence Safety and Research: Anthropic ...'
 url: https://www.orrick.com/en/News/2023/06/Artificial-Intelligence-Safety-and-Research
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chemtura" press release artificial intelligence'
 position: 5
 source: serpapi-google

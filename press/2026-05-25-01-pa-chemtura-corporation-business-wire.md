@@ -1,7 +1,9 @@
 ---
 title: PA-CHEMTURA-CORPORATION | Business Wire
 url: https://via.ritzau.dk/pressemeddelelse/9995980/pa-chemtura-corporation?publisherId=90456
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chemtura" press release artificial intelligence'
 position: 1
 source: serpapi-google

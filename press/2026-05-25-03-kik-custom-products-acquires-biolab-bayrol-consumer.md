@@ -1,7 +1,9 @@
 ---
 title: KIK Custom Products Acquires BioLab/Bayrol Consumer ...
 url: https://www.prnewswire.com/news-releases/kik-custom-products-acquires-biolabbayrol-consumer-products-business-from-chemtura-238442061.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Chemtura" press release artificial intelligence'
 position: 3
 source: serpapi-google
