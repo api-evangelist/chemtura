@@ -1,4 +1,4 @@
-# Chemtura (chemtura)
+# Chemtura
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,76 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chemtura Corporation was a global specialty chemicals company that developed, manufactured, and marketed chemical intermediates, additives, specialty chemicals, urethanes, organometallics, and modern plastics. In April 2017, Chemtura was acquired by LANXESS AG, the German specialty chemicals company headquartered in Cologne, and its operations were integrated into LANXESS's Performance Materials and other business segments. Chemtura products are now marketed and supported through LANXESS.
+Chemtura Corporation was a global specialty chemicals company that developed, manufactured, and marketed chemical intermediates, additives, specialty chemicals, urethanes, organometallics, and modern plastics. In April 2017, Chemtura was acquired by LANXESS AG, the German specialty chemicals company headquartered in Cologne, and its operations were integrated into LANXESS's Performance Materials and other business segments. Chemtura products are now marketed and supported through LANXESS, which continues to serve agriculture, animal care, mobility, consumer goods, electrical and electronics, energy, food, and healthcare end markets.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/chemtura/refs/heads/main/apis.yml)
+**Areas:** Acquired · Additives · Chemical Intermediates · Chemicals · Cologne · Germany · LANXESS · Lubricants · Performance Materials · Specialty Chemicals · Urethanes · Fortune 1000
 
-## Scope
+## Chemtura on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Chemtura is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chemtura/](https://apis.io/providers/chemtura/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Acquired
-- Additives
-- Chemical Intermediates
-- Chemicals
-- Cologne
-- Germany
-- LANXESS
-- Lubricants
-- Performance Materials
-- Specialty Chemicals
-- Urethanes
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Chemtura Domain Security](https://apis.io/security/chemtura/chemtura-domain-security/)
 
-Chemtura was acquired by LANXESS in April 2017 and does not maintain a standalone public developer API. Customers and partners are served through LANXESS corporate web channels and direct integrations.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [LANXESS Website (parent)](https://lanxess.com)
-- [Product Search](https://lanxess.com/en/products/product-search)
-- [Investor Relations](https://lanxess.com/en/investors)
-- [Sustainability](https://lanxess.com/en/sustainability)
-- [Careers](https://career.lanxess.com)
-- [Newsroom](https://lanxess.com/en/media/press-releases)
-- [Contact](https://lanxess.com/en/company/contact-search)
+- [Website](https://lanxess.com)
 
-## Business Segments
+## API Evangelist rating
 
-- Agriculture and Animal Care
-- Chemical Industry
-- Construction
-- Consumer Goods
-- Electrical and Electronics
-- Energy and Water
-- Food and Beverage
-- Healthcare
-- Mobility
-- E-Mobility and Battery Materials
+**Kin Score 3.5** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Products
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-- Lubricants
-- Flame Retardants
-- Ion Exchange Resins
-- LFP Battery Precursors
-- Urethanes
-- Organometallics
-- Specialty Chemicals
-- Chemical Intermediates
-- Additives
+**Agent readiness 0.0** — human-only
 
-## Maintainers
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-**FN:** Kin Lane
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-**Email:** kin@apievangelist.com
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chemtura/](https://apis.io/providers/chemtura/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chemtura: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chemtura/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
